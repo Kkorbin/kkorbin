@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about my website or my cat 🐈
 - 📫 How to reach me: korbinallseitz@gmail.com
 - 😄 Pronouns: he/him/his
-<! -- - ⚡ Fun fact: -->
+<! -- ⚡ Fun fact: -->
 
