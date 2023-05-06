@@ -3,7 +3,7 @@
 
 **Kkorbin/kkorbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me!
 
 - 🔭 I’m currently working on expanding my github profile.
 - 🌱 I’m currently learning building my portfolio/full-stack development.
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 
 <!-- ⚡ Fun fact: -->
 
+https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kkorbin
