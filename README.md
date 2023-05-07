@@ -15,11 +15,10 @@
 
 <!-- ⚡ Fun fact: -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkorbin&show_icons=true&bg_color=00000000" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkorbin" />
-</a>
+![Korbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkorbin&show_icons=true&bg_color=00000000)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Korbin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkorbin)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Korbin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kkorbin)](https://github.com/anuraghazra/github-readme-stats)
