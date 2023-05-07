@@ -15,6 +15,5 @@
 
 <!-- ⚡ Fun fact: -->
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kkorbin&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+[![Korbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkorbin)](https://github.com/anuraghazra/github-readme-stats)
+
