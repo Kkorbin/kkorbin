@@ -1,6 +1,6 @@
-### Hi there 👋
+##Hello there!! 
 
-My name is Korbin Allseitz! I am a student at ASU.
+## My name is Korbin Allseitz! I am a student at ASU.
 
 ## About Me!
 
