@@ -17,7 +17,7 @@ My name is Korbin Allseitz! I am a student at ASU for my BS in Software Engineer
 ![Korbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkorbin&show_icons=true&bg_color=00000000)
 
 
-[![Korbin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkorbin)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Korbin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkorbin)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 [![Korbin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kkorbin)](https://github.com/anuraghazra/github-readme-stats)
