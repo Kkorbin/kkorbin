@@ -11,12 +11,9 @@ My name is Korbin Allseitz! I am a Datacenter Technician & Software Engineer for
 - 💬 Ask me about python, my website, or my cat 🐈
 - 😄 Pronouns: he/him/his
 
-<!-- ⚡ Fun fact: -->
-
-![Korbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkorbin&show_icons=true&bg_color=00000000)
-
-
-<!-- [![Korbin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkorbin)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-[![Korbin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kkorbin)](https://github.com/anuraghazra/github-readme-stats)
+  I am proficient in the following Languages:
+  - Python
+  - C++
+  - Java
+  - Javascript/React
+  - Bash
